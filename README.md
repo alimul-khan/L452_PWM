@@ -4,7 +4,10 @@
 3. Channel2 set to PWM Generation CH2
 4. Configuration → Parameter Settings →
 5. Prescaler set to 127
-6. Counter Period 625
+6. Counter Period 625 ![](1.png)
+![](2.png)
+![](2.png)
+ 
 7.  
 ``` /* USER CODE BEGIN 2 */
   HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_2);
