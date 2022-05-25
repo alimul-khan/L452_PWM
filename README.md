@@ -6,7 +6,7 @@
 5. Prescaler set to 127
 6. Counter Period 625 ![](1.png)
 ![](2.png)
-![](2.png)
+![](3.png)
  
 7.  
 ``` /* USER CODE BEGIN 2 */
